@@ -1,6 +1,5 @@
 
 import Editor from "../app/components/editor/Editor";
-import Image from "next/image";
 
 export default function Home() {
   return (
